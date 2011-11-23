@@ -1,0 +1,14 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: 12px;
+    text-align: center;
+}
+
+#mindmap {
+    background-color: #111;
+    width: 600px;
+    height: 600px;
+    margin: auto;
+}

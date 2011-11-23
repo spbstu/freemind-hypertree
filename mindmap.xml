@@ -1,0 +1,633 @@
+<map version="0.9.0">
+<!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
+<attribute_registry SHOW_ATTRIBUTES="hide"/>
+<node TEXT="&#x410;&#x440;&#x445;&#x438;&#x442;&#x435;&#x43a;&#x442;&#x443;&#x440;&#x430; UNIX" ID="ID_1126358139" CREATED="1296936205453" MODIFIED="1307531553643" COLOR="#000000">
+<font SIZE="20"/>
+<hook NAME="MapStyle" zoom="0.999" max_node_width="400"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      &#1040;&#1088;&#1093;&#1080;&#1090;&#1077;&#1082;&#1090;&#1091;&#1088;&#1072; UNIX<br/>(Linux/FreeBSD/Solaris)
+    </p>
+  </body>
+</html></richcontent>
+<node TEXT="&#x412;&#x432;&#x435;&#x434;&#x435;&#x43d;&#x438;&#x435; &#x432; UNIX" POSITION="left" ID="ID_822984081" CREATED="1296936264321" MODIFIED="1297857055924" COLOR="#0033ff">
+<font SIZE="18"/>
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<node TEXT="&#x418;&#x441;&#x442;&#x43e;&#x440;&#x438;&#x44f; &#x441;&#x43e;&#x437;&#x434;&#x430;&#x43d;&#x438;&#x44f; &#x438; &#x440;&#x430;&#x437;&#x432;&#x438;&#x442;&#x438;&#x44f; UNIX" ID="ID_1886206941" CREATED="1296936264331" MODIFIED="1297857055946" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<node TEXT="&#x412;&#x43e;&#x437;&#x43d;&#x438;&#x43a;&#x43d;&#x43e;&#x432;&#x435;&#x43d;&#x438;&#x435; &#x438; &#x432;&#x435;&#x440;&#x441;&#x438;&#x438; UNIX" ID="ID_1336944985" CREATED="1296937822065" MODIFIED="1297857055958" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="AT&amp;T" ID="ID_784125386" CREATED="1296937850139" MODIFIED="1297857055961" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="BSD" ID="ID_513324772" CREATED="1296937858702" MODIFIED="1297857055962" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="FreeBSD" ID="ID_415459461" CREATED="1296937996118" MODIFIED="1297857055963" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="NetBSD" ID="ID_369194350" CREATED="1296938011920" MODIFIED="1297857055964" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="OpenBSD" ID="ID_746657268" CREATED="1296938013726" MODIFIED="1297857055965" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="Linux &#x432; &#x441;&#x435;&#x43c;&#x435;&#x439;&#x441;&#x442;&#x432;&#x435; UNIX" ID="ID_1056049395" CREATED="1296936264350" MODIFIED="1297857055966" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="Debian" ID="ID_1153779106" CREATED="1296938044156" MODIFIED="1297857055966" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="Debian" ID="ID_1982613844" CREATED="1296938090225" MODIFIED="1297857055967" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="Ubuntu" ID="ID_1092592467" CREATED="1296938087056" MODIFIED="1297857055968" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="RedHat" ID="ID_1992185526" CREATED="1296936264401" MODIFIED="1297857055969" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="RHEL" ID="ID_673913605" CREATED="1296938071910" MODIFIED="1297857055970" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="CentOS" ID="ID_777099393" CREATED="1296938075893" MODIFIED="1297857055971" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="Fedora" ID="ID_1534419928" CREATED="1296938082281" MODIFIED="1297857055972" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="&#x41e;&#x441;&#x43d;&#x43e;&#x432;&#x43d;&#x44b;&#x435; &#x441;&#x442;&#x430;&#x43d;&#x434;&#x430;&#x440;&#x442;&#x44b; UNIX" ID="ID_1157457136" CREATED="1296936264361" MODIFIED="1297857055973" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="UNIX" ID="ID_1597110716" CREATED="1296938319254" MODIFIED="1297857055974" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="IEEE POSIX" ID="ID_1970368633" CREATED="1296938116225" MODIFIED="1297857055975" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="AT&amp;T SVID" ID="ID_1913814768" CREATED="1296938272205" MODIFIED="1297857055976" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="BSD" ID="ID_6801608" CREATED="1296938278227" MODIFIED="1297857055977" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="OpenGroup SUS" ID="ID_1998036820" CREATED="1296938286267" MODIFIED="1297857055978" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="X/Open XPG" ID="ID_1008257331" CREATED="1296938264298" MODIFIED="1297857055979" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="LINUX" ID="ID_170577462" CREATED="1296938321733" MODIFIED="1297857055979" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="LSB" ID="ID_1677584840" CREATED="1296938341744" MODIFIED="1297857055980" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="FHS" ID="ID_491625880" CREATED="1296938343665" MODIFIED="1297857055981" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="&#x41e;&#x431;&#x437;&#x43e;&#x440; &#x430;&#x440;&#x445;&#x438;&#x442;&#x435;&#x43a;&#x442;&#x443;&#x440;&#x44b; UNIX" ID="ID_741968865" CREATED="1296936264409" MODIFIED="1297857055985" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<node TEXT="&#x42f;&#x434;&#x440;&#x43e;" ID="ID_1311421375" CREATED="1296936264417" MODIFIED="1297857055987" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="&#x424;&#x430;&#x439;&#x43b;&#x43e;&#x432;&#x430;&#x44f; &#x43f;&#x43e;&#x434;&#x441;&#x438;&#x441;&#x442;&#x435;&#x43c;&#x430;" ID="ID_281636113" CREATED="1296936264426" MODIFIED="1297857055988" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="&#x41f;&#x43e;&#x434;&#x441;&#x438;&#x441;&#x442;&#x435;&#x43c;&#x430; &#x432;&#x432;&#x43e;&#x434;&#x430;-&#x432;&#x44b;&#x432;&#x43e;&#x434;&#x430;" ID="ID_259958560" CREATED="1296936264436" MODIFIED="1297857055989" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="&#x41f;&#x43e;&#x434;&#x441;&#x438;&#x441;&#x442;&#x435;&#x43c;&#x430; &#x443;&#x43f;&#x440;&#x430;&#x432;&#x43b;&#x435;&#x43d;&#x438;&#x44f; &#x43f;&#x440;&#x43e;&#x446;&#x435;&#x441;&#x441;&#x430;&#x43c;&#x438;" ID="ID_1445681431" CREATED="1296936264449" MODIFIED="1297857055989" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="&#x41f;&#x43e;&#x434;&#x441;&#x438;&#x441;&#x442;&#x435;&#x43c;&#x430; &#x443;&#x43f;&#x440;&#x430;&#x432;&#x43b;&#x435;&#x43d;&#x438;&#x44f; &#x432;&#x438;&#x440;&#x442;&#x443;&#x430;&#x43b;&#x44c;&#x43d;&#x43e;&#x439; &#x43f;&#x430;&#x43c;&#x44f;&#x442;&#x44c;&#x44e;" ID="ID_1180097753" CREATED="1296938532900" MODIFIED="1297857055990" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="&#x411;&#x438;&#x431;&#x43b;&#x438;&#x43e;&#x442;&#x435;&#x43a;&#x438;" ID="ID_533027302" CREATED="1296936264417" MODIFIED="1297857055991" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="&#x421;&#x438;&#x441;&#x442;&#x435;&#x43c;&#x43d;&#x44b;&#x435; &#x438; &#x43f;&#x440;&#x438;&#x43a;&#x43b;&#x430;&#x434;&#x43d;&#x44b;&#x435; &#x43f;&#x440;&#x43e;&#x433;&#x440;&#x430;&#x43c;&#x43c;&#x44b;" ID="ID_925047195" CREATED="1296936264417" MODIFIED="1297857055992" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+</node>
+</node>
+<node TEXT="&#x41f;&#x43e;&#x43b;&#x44c;&#x437;&#x43e;&#x432;&#x430;&#x442;&#x435;&#x43b;&#x44c;&#x441;&#x43a;&#x43e;&#x435; &#x43e;&#x43a;&#x440;&#x443;&#x436;&#x435;&#x43d;&#x438;&#x435; UNIX" POSITION="left" ID="ID_901646596" CREATED="1296936264476" MODIFIED="1297857772901" COLOR="#0033ff">
+<font SIZE="18"/>
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<node TEXT="&#x418;&#x43d;&#x442;&#x435;&#x440;&#x430;&#x43a;&#x442;&#x438;&#x432;&#x43d;&#x430;&#x44f; &#x440;&#x430;&#x431;&#x43e;&#x442;&#x430; &#x432; &#x441;&#x438;&#x441;&#x442;&#x435;&#x43c;&#x435;" ID="ID_468104966" CREATED="1296939430968" MODIFIED="1297857772904" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<node TEXT="&#x422;&#x435;&#x440;&#x43c;&#x438;&#x43d;&#x430;&#x43b;&#x44b;" ID="ID_1887321260" CREATED="1296939218258" MODIFIED="1297857772905" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="&#x412;&#x438;&#x440;&#x442;&#x443;&#x430;&#x43b;&#x44c;&#x43d;&#x44b;&#x435;" ID="ID_1413723978" CREATED="1296939222183" MODIFIED="1297857056005" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="&#x41f;&#x441;&#x435;&#x432;&#x434;&#x43e;" ID="ID_440119177" CREATED="1296939240736" MODIFIED="1297857056006" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="&#x413;&#x440;&#x430;&#x444;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x438;&#x439; &#x438;&#x43d;&#x442;&#x435;&#x440;&#x444;&#x435;&#x439;&#x441;" ID="ID_1189250369" CREATED="1296939260416" MODIFIED="1297857056007" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="&#x421;&#x435;&#x442;&#x435;&#x432;&#x43e;&#x439; &#x434;&#x43e;&#x441;&#x442;&#x443;&#x43f;" ID="ID_903931290" CREATED="1296939263169" MODIFIED="1297857056008" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="&#x423;&#x43f;&#x440;&#x430;&#x432;&#x43b;&#x44f;&#x44e;&#x449;&#x438;&#x435; &#x442;&#x435;&#x440;&#x43c;&#x438;&#x43d;&#x430;&#x43b;&#x44c;&#x43d;&#x44b;&#x435; &#x441;&#x438;&#x43c;&#x432;&#x43e;&#x43b;&#x44b;" ID="ID_31515029" CREATED="1296939188578" MODIFIED="1297857056008" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="&#x41f;&#x43e;&#x43b;&#x44c;&#x437;&#x43e;&#x432;&#x430;&#x442;&#x435;&#x43b;&#x438; &#x438; &#x433;&#x440;&#x443;&#x43f;&#x43f;&#x44b;" ID="ID_1215078268" CREATED="1296936264469" MODIFIED="1297857772906" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="&#x41a;&#x43e;&#x43c;&#x430;&#x43d;&#x434;&#x43d;&#x44b;&#x439; &#x438;&#x43d;&#x442;&#x435;&#x440;&#x43f;&#x440;&#x435;&#x442;&#x430;&#x442;&#x43e;&#x440;" ID="ID_1466282955" CREATED="1296936264488" MODIFIED="1297857772906" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="&#x41e;&#x441;&#x43d;&#x43e;&#x432;&#x43d;&#x43e;&#x439; &#x441;&#x438;&#x43d;&#x442;&#x430;&#x43a;&#x441;&#x438;&#x441; &#x43a;&#x43e;&#x43c;&#x430;&#x43d;&#x434; CLI" ID="ID_420932016" CREATED="1296938967253" MODIFIED="1297858116959" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="&#x412;&#x441;&#x442;&#x440;&#x43e;&#x435;&#x43d;&#x43d;&#x44b;&#x435; &#x43a;&#x43e;&#x43c;&#x430;&#x43d;&#x434;&#x44b;" ID="ID_569936069" CREATED="1296936264495" MODIFIED="1297857056012" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="&#x412;&#x43d;&#x435;&#x448;&#x43d;&#x438;&#x435; &#x43a;&#x43e;&#x43c;&#x430;&#x43d;&#x434;&#x44b;" ID="ID_1163894003" CREATED="1297858150549" MODIFIED="1297858155905" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="LPI 103.1" ID="ID_774862283" CREATED="1307525541329" MODIFIED="1307531454920" LINK="http://www.lpi.org/eng/certification/the_lpic_program/lpic_1/exam_101_detailed_objectives#eztoc7840_1_3_1" COLOR="#111111">
+<font SIZE="12" BOLD="true"/>
+<icon BUILTIN="icon_not_found"/>
+</node>
+</node>
+<node TEXT="&#x41b;&#x430;&#x431;&#x43e;&#x440;&#x430;&#x442;&#x43e;&#x440;&#x43d;&#x430;&#x44f; &#x440;&#x430;&#x431;&#x43e;&#x442;&#x430; 1" ID="ID_1378222229" CREATED="1296943427286" MODIFIED="1297857772907" LINK="UNIX-ARCH.LAB1.mm" COLOR="#990000">
+<font SIZE="14" BOLD="true"/>
+<icon BUILTIN="attach"/>
+</node>
+</node>
+<node TEXT="&#x421;&#x43f;&#x440;&#x430;&#x432;&#x43e;&#x447;&#x43d;&#x44b;&#x435; &#x441;&#x438;&#x441;&#x442;&#x435;&#x43c;&#x44b; &#x438; &#x434;&#x43e;&#x43a;&#x443;&#x43c;&#x435;&#x43d;&#x442;&#x430;&#x446;&#x438;&#x44f;" ID="ID_1362582920" CREATED="1296936264851" MODIFIED="1297857772908" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<node TEXT="&#x421;&#x442;&#x440;&#x430;&#x43d;&#x438;&#x446;&#x44b; &#x44d;&#x43b;&#x435;&#x43a;&#x442;&#x440;&#x43e;&#x43d;&#x43d;&#x43e;&#x433;&#x43e; &#x440;&#x443;&#x43a;&#x43e;&#x432;&#x43e;&#x434;&#x441;&#x442;&#x432;&#x430; (Manual Pages)" ID="ID_1172794617" CREATED="1296936264856" MODIFIED="1297857772909" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="&#x412;&#x441;&#x442;&#x440;&#x43e;&#x435;&#x43d;&#x43d;&#x430;&#x44f; &#x441;&#x43f;&#x440;&#x430;&#x432;&#x43a;&#x430; &#x43a;&#x43e;&#x43c;&#x430;&#x43d;&#x434;&#x43d;&#x43e;&#x433;&#x43e; &#x438;&#x43d;&#x442;&#x435;&#x440;&#x43f;&#x440;&#x435;&#x442;&#x430;&#x442;&#x43e;&#x440;&#x430; bash" ID="ID_1482220069" CREATED="1296936264861" MODIFIED="1297857772911" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="&#x421;&#x43f;&#x440;&#x430;&#x432;&#x43e;&#x447;&#x43d;&#x430;&#x44f; &#x441;&#x438;&#x441;&#x442;&#x435;&#x43c;&#x430; GNU Info" ID="ID_230911662" CREATED="1296936264866" MODIFIED="1297857772916" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="&#x41b;&#x430;&#x431;&#x43e;&#x440;&#x430;&#x442;&#x43e;&#x440;&#x43d;&#x430;&#x44f; &#x440;&#x430;&#x431;&#x43e;&#x442;&#x430; 2" ID="ID_795053957" CREATED="1296943581352" MODIFIED="1297857772917" LINK="UNIX-ARCH.LAB2.mm" COLOR="#990000">
+<font SIZE="14" BOLD="true"/>
+<icon BUILTIN="attach"/>
+</node>
+</node>
+<node TEXT="&#x41f;&#x43e;&#x43b;&#x44c;&#x437;&#x43e;&#x432;&#x430;&#x442;&#x435;&#x43b;&#x44c;&#x441;&#x43a;&#x438;&#x439; &#x43f;&#x440;&#x43e;&#x444;&#x438;&#x43b;&#x44c;" ID="ID_821085941" CREATED="1296936264517" MODIFIED="1316263510071" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<attribute_layout NAME_WIDTH="83" VALUE_WIDTH="83"/>
+<node TEXT="&#x41f;&#x435;&#x440;&#x435;&#x43c;&#x435;&#x43d;&#x43d;&#x44b;&#x435; &#x43e;&#x43a;&#x440;&#x443;&#x436;&#x435;&#x43d;&#x438;&#x44f;" ID="ID_371021848" CREATED="1296936264495" MODIFIED="1316257216190" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="&#x41a;&#x43e;&#x43d;&#x444;&#x438;&#x433;&#x443;&#x440;&#x430;&#x446;&#x438;&#x43e;&#x43d;&#x43d;&#x44b;&#x435; dot-&#x444;&#x430;&#x439;&#x43b;&#x44b;" ID="ID_68742277" CREATED="1297767889825" MODIFIED="1297858097126" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="&#x41b;&#x430;&#x431;&#x43e;&#x440;&#x430;&#x442;&#x43e;&#x440;&#x43d;&#x430;&#x44f; &#x440;&#x430;&#x431;&#x43e;&#x442;&#x430; 3" ID="ID_361924043" CREATED="1296943589569" MODIFIED="1297857772918" LINK="UNIX-ARCH.LAB3.mm" COLOR="#990000">
+<font SIZE="14" BOLD="true"/>
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="LPI 105.1" ID="ID_1543247086" CREATED="1307525541329" MODIFIED="1316263533549" LINK="http://www.lpi.org/eng/certification/the_lpic_program/lpic_1/exam_102_detailed_objectives#eztoc7964_1_1_1">
+<font BOLD="true"/>
+<attribute_layout NAME_WIDTH="39" VALUE_WIDTH="86"/>
+<attribute NAME="&#x422;&#x438;&#x43f;" VALUE="&#x421;&#x435;&#x440;&#x442;&#x438;&#x444;&#x438;&#x43a;&#x430;&#x446;&#x438;&#x44f;"/>
+<icon BUILTIN="icon_not_found"/>
+</node>
+<node TEXT="&#x41a;&#x41a;1" ID="ID_737689545" CREATED="1316263534994" MODIFIED="1316263541318"/>
+<node TEXT=".5 &#x430;&#x43a;.&#x447;." ID="ID_1215039289" CREATED="1316263545634" MODIFIED="1316263549489"/>
+</node>
+</node>
+<node TEXT="&#x414;&#x435;&#x440;&#x435;&#x432;&#x43e; &#x43a;&#x430;&#x442;&#x430;&#x43b;&#x43e;&#x433;&#x43e;&#x432;" POSITION="left" ID="ID_1909809052" CREATED="1296939667521" MODIFIED="1297857056033" COLOR="#0033ff">
+<font SIZE="18"/>
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<node TEXT="&#x421;&#x442;&#x440;&#x443;&#x43a;&#x442;&#x443;&#x440;&#x430;" ID="ID_769976157" CREATED="1296936264548" MODIFIED="1297857056040" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<node TEXT="LPI 104.7" ID="ID_938956426" CREATED="1307525541329" MODIFIED="1307532918194" LINK="http://www.lpi.org/eng/certification/the_lpic_program/lpic_1/exam_101_detailed_objectives#eztoc7840_1_4_7">
+<font BOLD="true"/>
+<icon BUILTIN="icon_not_found"/>
+</node>
+</node>
+<node TEXT="&#x410;&#x434;&#x440;&#x435;&#x441;&#x430;&#x446;&#x438;&#x44f;" ID="ID_905273642" CREATED="1296939680308" MODIFIED="1297857056042" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+</node>
+<node TEXT="&#x41c;&#x43e;&#x43d;&#x442;&#x438;&#x440;&#x43e;&#x432;&#x430;&#x43d;&#x438;&#x435;" ID="ID_1104142398" CREATED="1296939700649" MODIFIED="1297857056044" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+</node>
+<node TEXT="&#x424;&#x430;&#x439;&#x43b;&#x43e;&#x432;&#x44b;&#x435; &#x441;&#x438;&#x441;&#x442;&#x435;&#x43c;&#x44b;" ID="ID_1871990436" CREATED="1296936264564" MODIFIED="1297857056049" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<node TEXT="&#x414;&#x438;&#x441;&#x43a;&#x43e;&#x432;&#x44b;&#x435;" ID="ID_652540301" CREATED="1296939799039" MODIFIED="1297857056053" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="extXfs" ID="ID_537136182" CREATED="1296939874304" MODIFIED="1297857056054" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="&#x41f;&#x441;&#x435;&#x432;&#x434;&#x43e;" ID="ID_189302244" CREATED="1296936264569" MODIFIED="1297857056055" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="procfs" ID="ID_1804486468" CREATED="1296939751405" MODIFIED="1297857056055" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="sysfs" ID="ID_1322622802" CREATED="1296939757259" MODIFIED="1297857056057" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="usbfs" ID="ID_1250039838" CREATED="1296939776194" MODIFIED="1297857056057" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="..." ID="ID_1009321768" CREATED="1296939765826" MODIFIED="1297857056058" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="LPI 101.1" ID="ID_1810666688" CREATED="1307525541329" MODIFIED="1307531541504" COLOR="#111111" LINK="http://www.lpi.org/eng/certification/the_lpic_program/lpic_1/exam_101_detailed_objectives#eztoc7840_1_1_1">
+<font SIZE="12" BOLD="true"/>
+<icon BUILTIN="icon_not_found"/>
+</node>
+</node>
+<node TEXT="&#x421;&#x435;&#x442;&#x435;&#x432;&#x44b;&#x435;" ID="ID_1543635359" CREATED="1296939887904" MODIFIED="1297857056059" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="nfs" ID="ID_1856656044" CREATED="1296939896971" MODIFIED="1297857056060" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="smbfs/cifs" ID="ID_1970438485" CREATED="1296939900523" MODIFIED="1297857056061" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="&#x422;&#x438;&#x43f;&#x44b; &#x444;&#x430;&#x439;&#x43b;&#x43e;&#x432;" ID="ID_645700390" CREATED="1296939922236" MODIFIED="1297857056061" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="&#x41e;&#x431;&#x44b;&#x447;&#x43d;&#x44b;&#x435;" ID="ID_524663364" CREATED="1296939931060" MODIFIED="1297857056062" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="&#x41a;&#x430;&#x442;&#x430;&#x43b;&#x43e;&#x433;&#x438;" ID="ID_1408266980" CREATED="1296939937573" MODIFIED="1297857056063" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="&#x421;&#x441;&#x44b;&#x43b;&#x43a;&#x438;" ID="ID_1928361990" CREATED="1296939990938" MODIFIED="1297857056064" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="&#x423;&#x441;&#x442;&#x440;&#x43e;&#x439;&#x441;&#x442;&#x432;&#x430;" ID="ID_1010484636" CREATED="1296940001202" MODIFIED="1297857056065" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="&#x421;&#x43e;&#x43a;&#x435;&#x442;&#x44b; &#x438; &#x43a;&#x430;&#x43d;&#x430;&#x43b;&#x44b;" ID="ID_1749709845" CREATED="1296939994104" MODIFIED="1297857056066" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="&#x41b;&#x430;&#x431;&#x43e;&#x440;&#x430;&#x442;&#x43e;&#x440;&#x43d;&#x430;&#x44f; &#x440;&#x430;&#x431;&#x43e;&#x442;&#x430; 4" ID="ID_722851004" CREATED="1297856800576" MODIFIED="1297857056067" LINK="UNIX-ARCH.LAB4.mm" COLOR="#990000">
+<font SIZE="14" BOLD="true"/>
+<icon BUILTIN="attach"/>
+</node>
+</node>
+<node TEXT="&#x420;&#x430;&#x437;&#x433;&#x440;&#x430;&#x43d;&#x438;&#x447;&#x435;&#x43d;&#x438;&#x435; &#x434;&#x43e;&#x441;&#x442;&#x443;&#x43f;&#x430; &#x43a; &#x444;&#x430;&#x439;&#x43b;&#x430;&#x43c;" ID="ID_808966507" CREATED="1296940549975" MODIFIED="1297857056071" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<node TEXT="&#x412;&#x43b;&#x430;&#x434;&#x435;&#x43b;&#x44c;&#x446;&#x44b; &#x444;&#x430;&#x439;&#x43b;&#x43e;&#x432;" ID="ID_58684768" CREATED="1296936264614" MODIFIED="1297857056073" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="&#x420;&#x435;&#x436;&#x438;&#x43c; &#x434;&#x43e;&#x441;&#x442;&#x443;&#x43f;&#x430;" ID="ID_127462956" CREATED="1296940572552" MODIFIED="1297857056074" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="&#x421;&#x442;&#x430;&#x43d;&#x434;&#x430;&#x440;&#x442;&#x43d;&#x44b;&#x435; &#x440;&#x430;&#x437;&#x440;&#x435;&#x448;&#x435;&#x43d;&#x438;&#x44f;" ID="ID_837422718" CREATED="1296940593930" MODIFIED="1297857056075" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="&#x414;&#x43e;&#x43f;&#x43e;&#x43b;&#x43d;&#x438;&#x442;&#x435;&#x43b;&#x44c;&#x43d;&#x44b;&#x435; &#x430;&#x442;&#x440;&#x438;&#x431;&#x443;&#x442;&#x44b;" ID="ID_29794327" CREATED="1296940613485" MODIFIED="1297857056075" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="&#x421;&#x43f;&#x438;&#x441;&#x43a;&#x438; &#x434;&#x43e;&#x441;&#x442;&#x443;&#x43f;&#x430; POSIX ACL" ID="ID_1220681315" CREATED="1296940651908" MODIFIED="1297857056076" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="&#x41b;&#x430;&#x431;&#x43e;&#x440;&#x430;&#x442;&#x43e;&#x440;&#x43d;&#x430;&#x44f; &#x440;&#x430;&#x431;&#x43e;&#x442;&#x430; 5" ID="ID_323840199" CREATED="1297856819421" MODIFIED="1297857056077" LINK="UNIX-ARCH.LAB5.mm" COLOR="#990000">
+<font SIZE="14" BOLD="true"/>
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="LPI 104.5" ID="ID_600200472" CREATED="1307525541329" MODIFIED="1307532184193" LINK="http://www.lpi.org/eng/certification/the_lpic_program/lpic_1/exam_101_detailed_objectives#eztoc7840_1_4_5">
+<font BOLD="true"/>
+<icon BUILTIN="icon_not_found"/>
+</node>
+</node>
+<node TEXT="LPI 103.3" ID="ID_693137346" CREATED="1307525541329" MODIFIED="1307531621932" LINK="http://www.lpi.org/eng/certification/the_lpic_program/lpic_1/exam_101_detailed_objectives#eztoc7840_1_3_3" STYLE="fork">
+<font SIZE="12" BOLD="true"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<icon BUILTIN="icon_not_found"/>
+</node>
+<node TEXT="LPI 104.6" ID="ID_50089032" CREATED="1307525541329" MODIFIED="1307532492079" LINK="http://www.lpi.org/eng/certification/the_lpic_program/lpic_1/exam_101_detailed_objectives#eztoc7840_1_4_6">
+<font BOLD="true"/>
+<icon BUILTIN="icon_not_found"/>
+</node>
+</node>
+<node TEXT="&#x41f;&#x440;&#x43e;&#x446;&#x435;&#x441;&#x441;&#x44b;" POSITION="left" ID="ID_1029532914" CREATED="1296936264649" MODIFIED="1297857056082" COLOR="#0033ff">
+<font SIZE="18"/>
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<node TEXT="&#x41f;&#x440;&#x43e;&#x433;&#x440;&#x430;&#x43c;&#x43c;&#x44b;, &#x431;&#x438;&#x431;&#x43b;&#x438;&#x43e;&#x442;&#x435;&#x43a;&#x438;, &#x43f;&#x440;&#x43e;&#x446;&#x435;&#x441;&#x441;&#x44b;" ID="ID_526735226" CREATED="1296941091253" MODIFIED="1297857056086" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+</node>
+<node TEXT="&#x410;&#x442;&#x440;&#x438;&#x431;&#x443;&#x442;&#x44b; &#x43f;&#x440;&#x43e;&#x446;&#x435;&#x441;&#x441;&#x430;" ID="ID_415034338" CREATED="1296936264654" MODIFIED="1297857056087" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+</node>
+<node TEXT="&#x416;&#x438;&#x437;&#x43d;&#x435;&#x43d;&#x43d;&#x44b;&#x439; &#x446;&#x438;&#x43a;&#x43b;" ID="ID_868265093" CREATED="1296936264659" MODIFIED="1297857056090" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<node TEXT="&#x41f;&#x43e;&#x440;&#x43e;&#x436;&#x434;&#x435;&#x43d;&#x438;&#x435; &#x43f;&#x440;&#x43e;&#x446;&#x435;&#x441;&#x441;&#x430;" ID="ID_1294040749" CREATED="1296941046178" MODIFIED="1297858329098" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="&#x417;&#x430;&#x43f;&#x443;&#x441;&#x43a; &#x43f;&#x440;&#x43e;&#x433;&#x440;&#x430;&#x43c;&#x43c;&#x44b;" ID="ID_68554441" CREATED="1296941077149" MODIFIED="1297857056092" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="&#x41f;&#x440;&#x438;&#x43d;&#x446;&#x438;&#x43f; fork-and-exec" ID="ID_1975799722" CREATED="1297767889827" MODIFIED="1297768629652" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="&#x420;&#x430;&#x431;&#x43e;&#x442;&#x430;" ID="ID_248705138" CREATED="1296941054280" MODIFIED="1297857056093" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="&#x421;&#x43e;&#x43d;" ID="ID_302563064" CREATED="1296941058482" MODIFIED="1297857056093" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="&#x412;&#x44b;&#x43f;&#x43e;&#x43b;&#x43d;&#x435;&#x43d;&#x438;&#x435;" ID="ID_1904856791" CREATED="1296941061335" MODIFIED="1297857056094" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="&#x417;&#x430;&#x432;&#x435;&#x440;&#x448;&#x435;&#x43d;&#x438;&#x435; &#x438; &#x443;&#x43d;&#x438;&#x447;&#x442;&#x43e;&#x436;&#x435;&#x43d;&#x438;&#x435;" ID="ID_1962611797" CREATED="1296941065443" MODIFIED="1297858322527" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+</node>
+<node TEXT="&#x421;&#x438;&#x433;&#x43d;&#x430;&#x43b;&#x44b;" ID="ID_88430516" CREATED="1296936264664" MODIFIED="1297857056096" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+</node>
+<node TEXT="&#x423;&#x43f;&#x440;&#x430;&#x432;&#x43b;&#x435;&#x43d;&#x438;&#x435; &#x437;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x44f;&#x43c;&#x438;" ID="ID_582593151" CREATED="1296936264670" MODIFIED="1297857056101" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<node TEXT="&#x421;&#x435;&#x430;&#x43d;&#x441;&#x44b;" ID="ID_384597305" CREATED="1296941165024" MODIFIED="1297857056102" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="&#x413;&#x440;&#x443;&#x43f;&#x43f;&#x44b;" ID="ID_149688226" CREATED="1296941168214" MODIFIED="1297857056103" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="&#x41f;&#x435;&#x440;&#x435;&#x434;&#x43d;&#x435;&#x433;&#x43e; &#x444;&#x43e;&#x43d;&#x430;" ID="ID_1313367856" CREATED="1296941170485" MODIFIED="1297857056103" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="&#x417;&#x430;&#x434;&#x43d;&#x435;&#x433;&#x43e; &#x444;&#x43e;&#x43d;&#x430;" ID="ID_3929513" CREATED="1296941173754" MODIFIED="1297857056104" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="LPI 103.5" ID="ID_1961503405" CREATED="1307525541329" MODIFIED="1307531913223" LINK="http://www.lpi.org/eng/certification/the_lpic_program/lpic_1/exam_101_detailed_objectives#eztoc7840_1_3_5" STYLE="fork">
+<font SIZE="12" BOLD="true"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<icon BUILTIN="icon_not_found"/>
+</node>
+<node TEXT="LPI 103.6" ID="ID_1484429529" CREATED="1307525541329" MODIFIED="1307531954777" LINK="http://www.lpi.org/eng/certification/the_lpic_program/lpic_1/exam_101_detailed_objectives#eztoc7840_1_3_6" STYLE="fork">
+<font SIZE="12" BOLD="true"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<icon BUILTIN="icon_not_found"/>
+</node>
+</node>
+<node TEXT="&#x414;&#x435;&#x440;&#x435;&#x432;&#x43e; &#x43f;&#x440;&#x43e;&#x446;&#x435;&#x441;&#x441;&#x43e;&#x432;" ID="ID_1981302270" CREATED="1297767889827" MODIFIED="1297858662754" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<node TEXT="&#x421;&#x438;&#x441;&#x442;&#x435;&#x43c;&#x43d;&#x44b;&#x435; &#x43f;&#x440;&#x43e;&#x446;&#x435;&#x441;&#x441;&#x44b;" ID="ID_1777667033" CREATED="1297768379671" MODIFIED="1297858640252" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="&#x414;&#x435;&#x43c;&#x43e;&#x43d;&#x44b;" ID="ID_537976514" CREATED="1297768386349" MODIFIED="1297858640253" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="&#x41f;&#x43e;&#x43b;&#x44c;&#x437;&#x43e;&#x432;&#x430;&#x442;&#x435;&#x43b;&#x44c;&#x441;&#x43a;&#x438;&#x435; &#x43f;&#x440;&#x43e;&#x446;&#x435;&#x441;&#x44b;" ID="ID_1419030882" CREATED="1297768395137" MODIFIED="1297858640254" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+</node>
+<node TEXT="&#x41b;&#x430;&#x431;&#x43e;&#x440;&#x430;&#x442;&#x43e;&#x440;&#x43d;&#x430;&#x44f; &#x440;&#x430;&#x431;&#x43e;&#x442;&#x430; 8" ID="ID_1407514941" CREATED="1297856841646" MODIFIED="1297857056107" LINK="UNIX-ARCH.LAB6.mm" COLOR="#00b439">
+<font SIZE="16" BOLD="true"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<icon BUILTIN="attach"/>
+</node>
+</node>
+<node TEXT="&#x41a;&#x43e;&#x43c;&#x430;&#x43d;&#x434;&#x43d;&#x44b;&#x439; &#x438;&#x43d;&#x442;&#x435;&#x440;&#x43f;&#x440;&#x435;&#x442;&#x430;&#x442;&#x43e;&#x440;" POSITION="right" ID="ID_1950824652" CREATED="1296936264576" MODIFIED="1297857056155" COLOR="#0033ff">
+<font SIZE="18"/>
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<node TEXT="&#x41f;&#x435;&#x440;&#x435;&#x43d;&#x430;&#x43f;&#x440;&#x430;&#x432;&#x43b;&#x435;&#x43d;&#x438;&#x435; &#x432;&#x432;&#x43e;&#x434;&#x430;-&#x432;&#x44b;&#x432;&#x43e;&#x434;&#x430;" ID="ID_1920623011" CREATED="1296936264596" MODIFIED="1297857056157" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<node TEXT="&#x421;&#x442;&#x430;&#x43d;&#x434;&#x430;&#x440;&#x442;&#x43d;&#x44b;&#x435; &#x43f;&#x43e;&#x442;&#x43e;&#x43a;&#x438; &#x432;&#x432;&#x43e;&#x434;&#x430;-&#x432;&#x44b;&#x432;&#x43e;&#x434;&#x430;" ID="ID_202880017" CREATED="1297767889826" MODIFIED="1297768629746" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="&#x41f;&#x435;&#x440;&#x435;&#x43d;&#x430;&#x43f;&#x440;&#x430;&#x432;&#x43b;&#x435;&#x43d;&#x438;&#x435; &#x43f;&#x43e;&#x442;&#x43e;&#x43a;&#x43e;&#x432; &#x432;&#x42b;&#x432;&#x43e;&#x434;&#x430;" ID="ID_1530735595" CREATED="1297767889826" MODIFIED="1297768629746" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="&#x41f;&#x435;&#x440;&#x435;&#x43d;&#x430;&#x43f;&#x440;&#x430;&#x432;&#x43b;&#x435;&#x43d;&#x438;&#x435; &#x43f;&#x43e;&#x442;&#x43e;&#x43a;&#x43e;&#x432; &#x412;&#x432;&#x43e;&#x434;&#x430;" ID="ID_888128428" CREATED="1297767889826" MODIFIED="1297768629747" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="&#x41a;&#x43e;&#x43d;&#x432;&#x435;&#x439;&#x435;&#x440;&#x43d;&#x430;&#x44f; &#x43e;&#x431;&#x440;&#x430;&#x431;&#x43e;&#x442;&#x43a;&#x430; &#x432;&#x432;&#x43e;&#x434;&#x430;-&#x432;&#x44b;&#x432;&#x43e;&#x434;&#x430;" ID="ID_756335930" CREATED="1297767889826" MODIFIED="1297768629748" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="LPI 103.4" ID="ID_86455160" CREATED="1307525541329" MODIFIED="1307531873797" LINK="http://www.lpi.org/eng/certification/the_lpic_program/lpic_1/exam_101_detailed_objectives#eztoc7840_1_3_4" STYLE="fork">
+<font SIZE="12" BOLD="true"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<icon BUILTIN="icon_not_found"/>
+</node>
+</node>
+<node TEXT="&#x41f;&#x43e;&#x434;&#x441;&#x442;&#x430;&#x43d;&#x43e;&#x432;&#x43a;&#x438;" ID="ID_1617875534" CREATED="1296936264596" MODIFIED="1297857056159" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<node TEXT="&#x418;&#x43c;&#x435;&#x43d; &#x444;&#x430;&#x439;&#x43b;&#x43e;&#x432;" ID="ID_1895545507" CREATED="1297767889826" MODIFIED="1297858216427" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="&#x412;&#x44b;&#x432;&#x43e;&#x434;&#x430; &#x43a;&#x43e;&#x43c;&#x430;&#x43d;&#x434;" ID="ID_897095939" CREATED="1297767889826" MODIFIED="1297858222344" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="&#x410;&#x440;&#x438;&#x444;&#x43c;&#x435;&#x442;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x438;&#x445; &#x432;&#x44b;&#x440;&#x430;&#x436;&#x435;&#x43d;&#x438;&#x439;" ID="ID_894832881" CREATED="1297767889826" MODIFIED="1297858227629" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="&#x41f;&#x430;&#x440;&#x430;&#x43c;&#x435;&#x442;&#x440;&#x43e;&#x432;" ID="ID_503623627" CREATED="1297767889826" MODIFIED="1297858232018" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+</node>
+<node TEXT="&#x42d;&#x43a;&#x440;&#x430;&#x43d;&#x438;&#x440;&#x43e;&#x432;&#x430;&#x43d;&#x438;&#x435;" ID="ID_831586999" CREATED="1296940116560" MODIFIED="1297857056162" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+</node>
+<node TEXT="&#x421;&#x43f;&#x438;&#x441;&#x43a;&#x438; &#x43a;&#x43e;&#x43c;&#x430;&#x43d;&#x434;" ID="ID_1715970113" CREATED="1296940835296" MODIFIED="1297857056163" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<node TEXT="&#x41f;&#x440;&#x43e;&#x441;&#x442;&#x44b;&#x435;" ID="ID_430807876" CREATED="1296940849125" MODIFIED="1297857056164" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="&#x421;&#x438;&#x43d;&#x445;&#x440;&#x43e;&#x43d;&#x43d;&#x44b;&#x435; &#x441;&#x43f;&#x438;&#x441;&#x43a;&#x438; &#x43a;&#x43e;&#x43c;&#x430;&#x43d;&#x434;" ID="ID_105935245" CREATED="1297767889826" MODIFIED="1297858250494" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="&#x410;&#x441;&#x438;&#x43d;&#x445;&#x440;&#x43e;&#x43d;&#x43d;&#x44b;&#x439; &#x441;&#x43f;&#x438;&#x441;&#x43e;&#x43a; &#x43a;&#x43e;&#x43c;&#x430;&#x43d;&#x434;" ID="ID_1997144048" CREATED="1297767889826" MODIFIED="1297858250496" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="&#x421;&#x43e;&#x441;&#x442;&#x430;&#x432;&#x43d;&#x44b;&#x435;" ID="ID_1815853595" CREATED="1296940852215" MODIFIED="1297857056165" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="&#x412;&#x435;&#x442;&#x432;&#x43b;&#x435;&#x43d;&#x438;&#x435; (if)" ID="ID_411720559" CREATED="1297767889826" MODIFIED="1297858257371" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="&#x426;&#x438;&#x43a;&#x43b; &#x441; &#x443;&#x441;&#x43b;&#x43e;&#x432;&#x438;&#x435;&#x43c; (while/until)" ID="ID_383155327" CREATED="1297767889826" MODIFIED="1297858257374" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="&#x426;&#x438;&#x43a;&#x43b; &#x441; &#x43f;&#x430;&#x440;&#x430;&#x43c;&#x435;&#x442;&#x440;&#x43e;&#x43c; (for)" ID="ID_1223225881" CREATED="1297767889826" MODIFIED="1297858257377" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="&#x41c;&#x43d;&#x43e;&#x436;&#x435;&#x441;&#x442;&#x432;&#x435;&#x43d;&#x43d;&#x43e;&#x435; &#x432;&#x435;&#x442;&#x432;&#x43b;&#x435;&#x43d;&#x438;&#x435; (case)" ID="ID_1440477236" CREATED="1297767889826" MODIFIED="1297858257379" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="&#x41e;&#x43f;&#x440;&#x435;&#x434;&#x435;&#x43b;&#x435;&#x43d;&#x438;&#x435; &#x444;&#x443;&#x43d;&#x43a;&#x446;&#x438;&#x438; (function)" ID="ID_172160810" CREATED="1297767889827" MODIFIED="1297858257381" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+</node>
+<node TEXT="&#x41e;&#x441;&#x43d;&#x43e;&#x432;&#x44b; &#x43f;&#x440;&#x43e;&#x433;&#x440;&#x430;&#x43c;&#x43c;&#x438;&#x440;&#x43e;&#x432;&#x430;&#x43d;&#x438;&#x44f;" ID="ID_1314523424" CREATED="1296936264693" MODIFIED="1297857056166" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<node TEXT="LPI 105.2" ID="ID_534194961" CREATED="1307525541329" MODIFIED="1307534023770" LINK="http://www.lpi.org/eng/certification/the_lpic_program/lpic_1/exam_102_detailed_objectives#eztoc7964_1_1_2">
+<font BOLD="true"/>
+<icon BUILTIN="icon_not_found"/>
+</node>
+</node>
+<node TEXT="&#x41b;&#x430;&#x431;&#x43e;&#x440;&#x430;&#x442;&#x43e;&#x440;&#x43d;&#x430;&#x44f; &#x440;&#x430;&#x431;&#x43e;&#x442;&#x430; 6" ID="ID_1033458608" CREATED="1297856955876" MODIFIED="1297857056168" LINK="UNIX-ARCH.LAB6.mm" COLOR="#00b439">
+<font SIZE="16" BOLD="true"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="&#x41b;&#x430;&#x431;&#x43e;&#x440;&#x430;&#x442;&#x43e;&#x440;&#x43d;&#x430;&#x44f; &#x440;&#x430;&#x431;&#x43e;&#x442;&#x430; 9" ID="ID_363116939" CREATED="1297856983475" MODIFIED="1297857056169" LINK="UNIX-ARCH.LAB9.mm" COLOR="#00b439">
+<font SIZE="16" BOLD="true"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="LPI 103.2" ID="ID_1055288080" CREATED="1307525541329" MODIFIED="1307531596938" LINK="http://www.lpi.org/eng/certification/the_lpic_program/lpic_1/exam_101_detailed_objectives#eztoc7840_1_3_2" STYLE="fork">
+<font SIZE="12" BOLD="true"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<icon BUILTIN="icon_not_found"/>
+</node>
+<node TEXT="LPI 103.7" ID="ID_1007886579" CREATED="1307525541329" MODIFIED="1307531994620" LINK="http://www.lpi.org/eng/certification/the_lpic_program/lpic_1/exam_101_detailed_objectives#eztoc7840_1_3_7" STYLE="fork">
+<font SIZE="12" BOLD="true"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<icon BUILTIN="icon_not_found"/>
+</node>
+</node>
+<node TEXT="&#x418;&#x43d;&#x441;&#x442;&#x440;&#x443;&#x43c;&#x435;&#x43d;&#x442;&#x430;&#x43b;&#x44c;&#x43d;&#x44b;&#x435; &#x441;&#x440;&#x435;&#x434;&#x441;&#x442;&#x432;&#x430;" POSITION="right" ID="ID_1036927420" CREATED="1296943190974" MODIFIED="1297857056150" COLOR="#0033ff">
+<font SIZE="18"/>
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<node TEXT="&#x41b;&#x430;&#x431;&#x43e;&#x440;&#x430;&#x442;&#x43e;&#x440;&#x43d;&#x430;&#x44f; &#x440;&#x430;&#x431;&#x43e;&#x442;&#x430; 7" ID="ID_677660689" CREATED="1297857008154" MODIFIED="1297857056152" LINK="UNIX-ARCH.LAB7.mm" COLOR="#00b439">
+<font SIZE="16" BOLD="true"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<icon BUILTIN="attach"/>
+</node>
+<node TEXT="LPI 103.3" ID="ID_1435979917" CREATED="1307525541329" MODIFIED="1307531621932" LINK="http://www.lpi.org/eng/certification/the_lpic_program/lpic_1/exam_101_detailed_objectives#eztoc7840_1_3_3" STYLE="fork">
+<font SIZE="12" BOLD="true"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<icon BUILTIN="icon_not_found"/>
+</node>
+<node TEXT="LPI 103.8" ID="ID_1583256370" CREATED="1307525541329" MODIFIED="1307532028591" LINK="http://www.lpi.org/eng/certification/the_lpic_program/lpic_1/exam_101_detailed_objectives#eztoc7840_1_3_8" STYLE="fork">
+<font SIZE="12" BOLD="true"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<icon BUILTIN="icon_not_found"/>
+</node>
+</node>
+<node TEXT="&#x421;&#x435;&#x442;&#x435;&#x432;&#x43e;&#x435; &#x43e;&#x43a;&#x440;&#x443;&#x436;&#x435;&#x43d;&#x438;&#x435;" POSITION="right" ID="ID_713596869" CREATED="1296936264704" MODIFIED="1297857056110" COLOR="#0033ff">
+<font SIZE="18"/>
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<node TEXT="C&#x442;&#x430;&#x43d;&#x434;&#x430;&#x440;&#x442;&#x43d;&#x44b;&#x435; &#x441;&#x435;&#x442;&#x435;&#x432;&#x44b;&#x435; &#x441;&#x43b;&#x443;&#x436;&#x431;&#x44b; UNIX" ID="ID_1140545749" CREATED="1296936264715" MODIFIED="1297857056114" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<node TEXT="TELNET" ID="ID_1407297043" CREATED="1296942320533" MODIFIED="1297857056115" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="SSH" ID="ID_1816660007" CREATED="1296942400376" MODIFIED="1297857056116" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="FTP" ID="ID_1780603291" CREATED="1296942356780" MODIFIED="1297857056117" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="SMTP/POP/IMAP" ID="ID_139037798" CREATED="1296942359008" MODIFIED="1297857056117" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+</node>
+<node TEXT="&#x41b;&#x430;&#x431;&#x43e;&#x440;&#x430;&#x442;&#x43e;&#x440;&#x43d;&#x430;&#x44f; &#x440;&#x430;&#x431;&#x43e;&#x442;&#x430; 10" ID="ID_212125488" CREATED="1297857042914" MODIFIED="1297857056121" LINK="UNIX-ARCH.LAB10.mm" COLOR="#00b439">
+<font SIZE="16" BOLD="true"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<icon BUILTIN="attach"/>
+</node>
+</node>
+<node TEXT="&#x413;&#x440;&#x430;&#x444;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x438;&#x439; &#x438;&#x43d;&#x442;&#x435;&#x440;&#x444;&#x435;&#x439;&#x441;" POSITION="right" ID="ID_1333200041" CREATED="1296936264725" MODIFIED="1297857056127" COLOR="#0033ff">
+<font SIZE="18"/>
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<node TEXT="&#x41e;&#x43a;&#x43e;&#x43d;&#x43d;&#x430;&#x44f; &#x441;&#x438;&#x441;&#x442;&#x435;&#x43c;&#x430; X Window System" ID="ID_1803842831" CREATED="1296936265211" MODIFIED="1297858851539" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<node TEXT="X &#x441;&#x435;&#x440;&#x432;&#x435;&#x440;" ID="ID_1696095884" CREATED="1296936264731" MODIFIED="1297857056137" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="X &#x43a;&#x43b;&#x438;&#x435;&#x43d;&#x442;&#x44b;" ID="ID_1086855051" CREATED="1296942111332" MODIFIED="1297857056137" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="&#x425;lib &#x431;&#x438;&#x431;&#x43b;&#x438;&#x43e;&#x442;&#x435;&#x43a;&#x430;" ID="ID_1842375859" CREATED="1296942141712" MODIFIED="1297858830439" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="&#x41e;&#x43a;&#x43e;&#x43d;&#x43d;&#x44b;&#x439; &#x43c;&#x435;&#x43d;&#x435;&#x434;&#x436;&#x435;&#x440;" ID="ID_1348010786" CREATED="1296942119233" MODIFIED="1297857056139" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="X &#x441;&#x435;&#x430;&#x43d;&#x441;" ID="ID_1982962972" CREATED="1297858804316" MODIFIED="1297858817312" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+</node>
+<node TEXT="&#x411;&#x438;&#x431;&#x43b;&#x438;&#x43e;&#x442;&#x435;&#x43a;&#x438; &#x434;&#x435;&#x43a;&#x43e;&#x440;&#x438;&#x440;&#x43e;&#x432;&#x430;&#x43d;&#x438;&#x44f;" ID="ID_233863546" CREATED="1296942131593" MODIFIED="1297858798052" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<node TEXT="Xtoolkit (Xt) &#x438; X athena widgets (Xaw)" ID="ID_1423632713" CREATED="1297767889827" MODIFIED="1297858893942" COLOR="#990000">
+<font SIZE="14"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+</node>
+<node TEXT="XView" ID="ID_578212768" CREATED="1297767889827" MODIFIED="1297858893945" COLOR="#990000">
+<font SIZE="14"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+</node>
+<node TEXT="Motif" ID="ID_1499785551" CREATED="1297767889827" MODIFIED="1297858893948" COLOR="#990000">
+<font SIZE="14"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+</node>
+<node TEXT="Q toolkit (Qt)" ID="ID_1716764656" CREATED="1297767889827" MODIFIED="1297858893949" COLOR="#990000">
+<font SIZE="14"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+</node>
+<node TEXT="GIMP Toolkit (Gtk+)" ID="ID_89437103" CREATED="1297767889827" MODIFIED="1297858893950" COLOR="#990000">
+<font SIZE="14"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+</node>
+</node>
+<node TEXT="&#x41d;&#x430;&#x441;&#x442;&#x43e;&#x43b;&#x44c;&#x43d;&#x44b;&#x435; &#x43e;&#x43a;&#x440;&#x443;&#x436;&#x435;&#x43d;&#x438;&#x44f;" ID="ID_1215470086" CREATED="1296936264736" MODIFIED="1297858780764" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<node TEXT="OpenWindows" ID="ID_703221780" CREATED="1297767889827" MODIFIED="1297768629712" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="Common Desktop Environment (CDE)" ID="ID_522313498" CREATED="1297767889827" MODIFIED="1297768629713" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="K Desktop Environment (KDE)" ID="ID_426702400" CREATED="1297767889827" MODIFIED="1297768629714" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="G.N.O.M.E" ID="ID_1261778640" CREATED="1297767889827" MODIFIED="1297768629715" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="X.F.C.E" ID="ID_663561155" CREATED="1297767889827" MODIFIED="1297768629716" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+</node>
+<node TEXT="&#x41b;&#x430;&#x431;&#x43e;&#x440;&#x430;&#x442;&#x43e;&#x440;&#x43d;&#x430;&#x44f; &#x440;&#x430;&#x431;&#x43e;&#x442;&#x430; 11" ID="ID_424456597" CREATED="1297857025945" MODIFIED="1297857056148" LINK="UNIX-ARCH.LAB11.mm" COLOR="#00b439">
+<font SIZE="16" BOLD="true"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<icon BUILTIN="attach"/>
+</node>
+</node>
+</node>
+</map>
