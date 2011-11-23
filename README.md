@@ -1,1 +1,1 @@
-See demo at http://people.avalon.ru/~dketov/minmap/mindmap.html
+See demo at http://people.avalon.ru/~dketov/mindmap/mindmap.html
